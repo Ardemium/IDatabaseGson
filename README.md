@@ -12,8 +12,8 @@ An generic db interface for objects
 
 Start with IDatabase.initDb("nameDb")
 
-Generic type            =   new defaultConstructor()
-Generic object          =   Object
-String dbname           =   "nameDb"
-String id               =   "69"
-ArrayList<Generic> db   =   ArrayList<Object>
+- Generic type            =   new defaultConstructor()
+- Generic object          =   Object
+- String dbname           =   "nameDb"
+- String id               =   "69"
+- ArrayList<Generic> db   =   ArrayList<Object>
