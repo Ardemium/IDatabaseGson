@@ -1,6 +1,10 @@
 # Maven x Gson
 An generic db interface for objects
 
+- maven framework
+- add GSON dependencie (2.9.0)
+
+
 1. implement IDatabase
 2. make String id instance variabel
 3. create default constructor
